@@ -14,7 +14,7 @@ module.exports = {
     sourceType: 'module'
   },
   ignorePatterns: [
-    '.eslintrc.js',
+    '.eslintrc.js'
   ],
   rules: {
     '@typescript-eslint/prefer-nullish-coalescing': 'off', // requires the `strictNullChecks` compiler option
